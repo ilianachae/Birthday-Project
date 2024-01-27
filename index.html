@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Birthday Project</title>
+</head>
+<body>
+
+<div class="container">
+    <div id="message-container">
+        <p id="today"></p>
+        <h2>born AFTER</h1>
+        <p id="birthday"></p>
+        <h2>NO Alcohol is allowed</h1>
+    </div>
+</div>
+
+<div class="container-age1">
+    <h1>Age Calculator</h1>
+    <label for="dob">Date of Birth:</label>
+    <input type="text" id="dob" placeholder="yyyy/mm/dd" oninput="formatDateInput(this)">
+    <label for="ageAtDate">Age at the Date:</label>
+    <input type="text" id="ageAtDate" placeholder="yyyy/mm/dd" oninput="formatDateInput(this)">
+    <button onclick="calculateAge()">Calculate Age</button>
+    <div id="result"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
