@@ -2,9 +2,7 @@
 
 ## Information
 
-**ILIANA CHAE**
-
-[Birthday Project](https://birthday-of-you.vercel.app/)
+- ILIANA CHAE
 
 https://birthday-of-you.vercel.app/
 
