@@ -20,6 +20,6 @@ The second function is age calculator which is able to calculate age based on bi
 
 ## Note
 
-I tried to add more functions and fireworks effect would be appeared when the birthday that the user inputs and today's date is same, but I didn't have that much time for adding and figuring out.
+I tried to add more functions and fireworks effect would be appeared if the birthday that the user inputs and today's date is same, but I didn't have that much time for adding and figuring out.
 
 So, my next goal would be adding the easter eggs and one more function that able to calculate the left date for next birthday that the user inputs.
