@@ -1,15 +1,17 @@
+# Birthday Project
+
 ## Information
-a. Full name: ILIANA CHAE
 
-b. Student ID: 2409413
+**ILIANA CHAE**
 
-c. Chapman email: ychae@chapman.edu
+[Birthday Project](https://birthday-of-you.vercel.app/)
 
-d. Course number and section: CPSC 298-05
+https://birthday-of-you.vercel.app/
 
-e. Assignment or exercise number: Final Project
+## Function
 
+The aim of project is checking the age based on the date and birthday.
 
-## Reference
-I refer to previous projects and code from Prof. Studebaker's 298 class.
+The main function is showing the legal age's birthday based on today's date.
 
+The second function is age calculator which is able to calculate age based on birthday and specific date. The user able to put any date for two inputs which are start-date(Date-of-Birth) and last-date(Age-at-the-Date).
